@@ -1,0 +1,28 @@
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.frmGiaodienchinh.resources
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\giao dien assignment.vbproj.GenerateResource.Cache
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\LE HUYNH\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\bin\Debug\giao dien assignment.exe
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\bin\Debug\giao dien assignment.pdb
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\bin\Debug\giao dien assignment.xml
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmGiaodienchinh.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\giao dien assignment.vbproj.GenerateResource.Cache
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\giao dien assignment.exe
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\giao dien assignment.xml
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\giao dien assignment.pdb
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmLogin.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmtracnghiem.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmbientap.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmDapan.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmQuanlinguoidung.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\bin\Debug\giao dien assignment.exe.config
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmDieuchinhKH.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.frmCapnhatsanpham.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.xemthongtinsanpham.resources
+C:\Users\LE HUYNH\Documents\Visual Studio 2010\Projects\assignment 1\giao dien assignment\giao dien assignment\obj\x86\Debug\WindowsApplication1.xemthongtinKH.resources
